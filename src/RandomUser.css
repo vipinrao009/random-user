@@ -1,0 +1,23 @@
+.containor{
+    margin: 0% auto;
+    border: solid 2px black;
+    display: flex;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.3);
+    width: 400px;
+}
+
+.randomuser{
+   margin-top: 10rem;
+}
+
+.image{
+    justify-content: center;
+    padding: 1.5rem;
+    
+}
+
+.details p {
+   font-size: large;
+    font-weight:400;
+    
+}
